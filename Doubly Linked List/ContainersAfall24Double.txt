@@ -1,0 +1,18 @@
+IR Ford 80722.36 4 
+IF  Ford 35462 2 
+IR GMC 67988.99 2
+IR 
+RAM
+88572.46 2
+
+IF Chevy 53476.34 3
+PN
+PF
+D Ford 
+PL
+IF Boeing 1567342.78 3 
+IF Piper 86789.45 7
+IR Cessna 56957 4
+PF
+PL
+

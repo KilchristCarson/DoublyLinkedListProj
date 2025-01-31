@@ -1,0 +1,42 @@
+Inserted vehicle: Ford Price: 80722.36 Stock: 4
+Inserted vehicle: Ford Price: 35462.00 Stock: 2
+Inserted vehicle: GMC Price: 67988.99 Stock: 2
+Inserted vehicle: RAM Price: 88572.46 Stock: 2
+Inserted vehicle: Chevy Price: 53476.34 Stock: 3
+
+Total number of vehicles: 5
+
+Current Vehicles in the list (Right to Left):
+Car - Manufacturer: Chevy, Price: 53476.34, Stock: 3
+Car - Manufacturer: RAM, Price: 88572.46, Stock: 2
+Car - Manufacturer: GMC, Price: 67988.99, Stock: 2
+Car - Manufacturer: Ford, Price: 35462.0, Stock: 2
+Car - Manufacturer: Ford, Price: 80722.36, Stock: 4
+
+Deleting all vehicles by: Ford
+
+Current Vehicles in the list (Left to Right):
+Car - Manufacturer: GMC, Price: 67988.99, Stock: 2
+Car - Manufacturer: RAM, Price: 88572.46, Stock: 2
+Car - Manufacturer: Chevy, Price: 53476.34, Stock: 3
+
+Inserted vehicle: Boeing Price: 1567342.78 Stock: 3
+Inserted vehicle: Piper Price: 86789.45 Stock: 7
+Inserted vehicle: Cessna Price: 56957.00 Stock: 4
+
+Current Vehicles in the list (Right to Left):
+Plane -  Manufacturer: Cessna, Price: 56957.0, Stock: 4, Engine Type: Propeller
+Plane -  Manufacturer: Piper, Price: 86789.45, Stock: 7, Engine Type: Jet
+Plane -  Manufacturer: Boeing, Price: 1567342.78, Stock: 3, Engine Type: Jet
+Car - Manufacturer: Chevy, Price: 53476.34, Stock: 3
+Car - Manufacturer: RAM, Price: 88572.46, Stock: 2
+Car - Manufacturer: GMC, Price: 67988.99, Stock: 2
+
+Current Vehicles in the list (Left to Right):
+Car - Manufacturer: GMC, Price: 67988.99, Stock: 2
+Car - Manufacturer: RAM, Price: 88572.46, Stock: 2
+Car - Manufacturer: Chevy, Price: 53476.34, Stock: 3
+Plane -  Manufacturer: Boeing, Price: 1567342.78, Stock: 3, Engine Type: Jet
+Plane -  Manufacturer: Piper, Price: 86789.45, Stock: 7, Engine Type: Jet
+Plane -  Manufacturer: Cessna, Price: 56957.0, Stock: 4, Engine Type: Propeller
+
